@@ -1,0 +1,27 @@
+{
+  "name": "stringerprint",
+  "version": "1.0.0",
+  "description": "🧬 Create a unique, consistent, 32 char digest for a given string",
+  "keywords": [
+    "fingerprint",
+    "string",
+    "digest",
+    "hex",
+    "🧬"
+  ],
+  "author": "omrilotan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omrilotan/stringerprint.git"
+  },
+  "homepage": "https://omrilotan.com/stringerprint/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
