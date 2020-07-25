@@ -1,6 +1,6 @@
 {
   "name": "stringerprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🧬 Create a unique, consistent, 32 char digest for a given string",
   "keywords": [
     "fingerprint",
@@ -20,7 +20,7 @@
   "scripts": {
     "test": "mocha spec.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
   }
